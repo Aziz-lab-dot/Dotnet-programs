@@ -1,0 +1,1 @@
+C# project to calculate amount of cash left in cash till after randomize transaction and use of try, catch and throw exceptions to catch or create exceptions if something goes wrong.

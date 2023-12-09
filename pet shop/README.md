@@ -1,0 +1,1 @@
+A small business project "PET SHOP". The project allows the customer to search for required pet based on characteristic like color or breed. The system additionally displays personality of the pet to meet customers need.
